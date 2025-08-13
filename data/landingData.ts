@@ -16,7 +16,7 @@ export const carrosselData = [
   {
     id: 2,
     imagem_antes_url: botoxAntes2.src,
-    imagem_depois_url: botoxDepois3.src,
+    imagem_depois_url: botoxDepois2.src,
     legenda: "Harmonização completa realçando a beleza natural"
   },
   {
